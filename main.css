@@ -98,7 +98,7 @@ li {
 body {
     background: url("https://static.pexels.com/photos/5412/water-blue-ocean.jpg");
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: fixed;
     background-size: cover;
     font-size: 18px;
     font-family: fantasy;
